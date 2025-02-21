@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cloud-monitoring-dashboard",
+  "private_key_id": "f2147c7853bf5a968849ca94338083f62828ead3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCe92b4Ls2CCWcU\nLqDH8M5PZLFdYhL18rS8ZJVZgiW4GPhs1gqWD94BEnhr+eQtFa+ROw24VIJOGxs/\ntHPgKvWZdTMb9N00ntZnN1ShqFbQHpGkJp1Qa/+GhPXef4a2qgJGij3ZYvX1zOZL\nMsIS8EMiBDP9boMCUuvaD2Z+Qq2FF/ltgnO13dy5sIkBe9ctCSGwnABE6s1uJBKJ\nC/eZPxWHBqtSXZhU1DIRG8YvkqCaVED14qn/ezThG0MI2NB7KAuuXzKaaQdWcSIg\nBFZptzNzimJ7oxUCEdz5EpGKewNgyqWUiVxVxjLnT7qCCPDdm7kx/EPDcTX+VHtX\nzYlIwjNjAgMBAAECggEABzVwJR4Mcg8dp0PPmmNROKiUWySTlMOOyvefnDM6pTa9\nHbZhIKDazHuJcXVm9UCo4+ry7CmbI1lFquW51tOBOrKs8mGpAa7tnqr3SOxP9p/L\nXcFXo0aafeM4cuQRP3RUGDMmHPqeCf7GN2ipPSb0bGbBnXhYwY7x3abLsHP6LP94\nFPwR6LU/pFVB7pQS0uw6iiHRtbYFSMAFfIc+1k9/sAupfQP6HVZNOdD9EBQux7TH\npsL0fPsCwbwOLyHpkVF11KPh1Pnm0fYVFDiG5947ss952knm+fl/m02WQ/QBRKi+\nEisuLaOZMJIwAhWcQuGSw0GhyHhxrugWobPQyEabbQKBgQDL9amfJObi2jWSxLQO\niTkauGHGE5nAg86KXnYs0TziyAsYwg+OiQs2uxMfyRqUNI/TRHJeHQehZ6DtsrQO\n2hgtNCWEdHDS+luYDUUjYq9F6KWHBztZfnwUuXWNl4aqs2MYr2Ky+jyiR4mK32Ua\noZX7exTeZb2bu1kQ2+/Dr24OrwKBgQDHhtnNJ01ERBlldPTz70BbB32xRbO8wRD/\nY0racbTuihKnoh6S+BY6hLKkIr4cUtrJ/MR8OT795HC1B7rP7W+iE2tbKTGpkD/o\nGelEbBV3EbDrq0mHDACmUABXjsfGPdC/y+ewJQQt47qrjmHh0iStLRYA1oBZ3w+/\nCGgMzwzzjQKBgC4JqJz0jm08RgV4AxCY5tviLKeyOu1akx9mjRQ2sqCZ+O9AtpQ8\n2Nwkw/9TvH0hlCli9NHLibJkGs4snToQ/o4NjD5mriThQBWFQUrodpm4Fszw0/Oy\nej2PUzp/rnUPgtnKlOPDWjZjIWfIXyDwwlL+iEpe+rqRQlxs2KT6D0SfAoGAOXVr\nGXpc9PDLg30n4Wuf09cXakqRVSUgOPumHbwrB5q5fo7gUSCifh2iuEPNDakKmqpx\nBvkRW9pCXs+oC6Lrx/fhrbHyPEtvK+7yTyL1F4H/ug5ssThSo5JcVtqmSz+X8vPM\nd9xhFLoFEsyBAaAbscdPE9Sxx6/GABRyqmWh7C0CgYB2yEZVbI3GfqB15yJ24DPw\nNnbbjqTsQA2Qq0i8Fd/dDostHJEOfaFHoLEsGwgWd0YHo83X8swrZA158Cszt+2I\nyuIELSGrFXCY+H+oaudFQmH+7gXQLZmfdm3TaZ6EdSdmWSQB7jv91YFvBIDUhmyD\ntrhI3n6bw86zQ1E7fQ3DwQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "monitoring@cloud-monitoring-dashboard.iam.gserviceaccount.com",
+  "client_id": "115538176369200648113",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/monitoring%40cloud-monitoring-dashboard.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
